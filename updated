@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <div class="container">
+        <div class="app-screen">
+            <div class="tabs">
+                <button class="tab-button">Markets</button>
+                <button class="tab-button">PRØTeam</button>
+                <button class="tab-button">Legal</button>
+                <button class="tab-button">Specials</button>
+            </div>
+            <div class="cards">
+                <p>My cards</p>
+                <p class="cards-purple">New cards</p>
+                <p>Lost opportunities</p>
+            </div>
+            <div class="card-row">
+                <div class="card-item card-item1">
+                    <img src="https://s3-alpha-sig.figma.com/img/c5dc/4938/faab6a202d8108b1225006f97376da6f?Expires=1719187200&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=YZOE~HjPF2VAun7c~YrjHPU5V3t5FzBxyyHIHvVheMuZ9cpV4PO8lGgAs~epxQKU5vhvm6yjEcX7VZq9CxfvY~HH~4-KlU0~-8gX0BBra-aQzcoom6Yr5kol4gDxbFbiunNmDZ4BIdWYLhbtddSPzQICJZRAOnMTH6BrPZPxzQGt17GRlOfJFLvvU1en7G9D0mMRnTezYMfHk1B8GCXGVf-IN1KRNduPsyAoJ34gYdVegqlnBtvjJRlhUpclCahlPfJgzbH2JgEMAVpIcCn54gguCsJrJmriuwof8vccbR0Sr2kfvPT~CeagWr65Q~LEpn0GEV0evWaG3-t-4nyHSg__" alt="Porsche">
+                    <p class="pfirst">Porsche for a EleFANT CEO</p>
+                    <p class="ponly">To be an outstanding eleFANT</p>
+                    <p class="plast"><i class="fa-solid fa-coins"></i> 1M</p>
+                </div>
+                <div class="card-item card-item2">
+                    <img src="https://s3-alpha-sig.figma.com/img/ccd3/1185/96cf8f171fef909e5d763e880f8a48b9?Expires=1719187200&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=QiFGJ~Ofqbd1dQQNFWBSMK9aG64lOiiHnf4vKE9ohe~TJVDmt48ABQfSJZZcS3WvaQlBgvwNCl~xRi31bIkVuUKh6F~IU9CwnhxMv20argIy4ZqZ6lgtkryVVlXoR3z6Ea2HFBaveIrzBWJPK65tNF1KQiy8GLj9k3ctJfJIWa2-1iMNIpQDzrCznMW7UJb4fsetMVGuyjz3ccVWh0cv91Dw6O-42Zagj9LMDs3NMznyklMAeVJv4iwkPESxOz1psztYQYLvod08stpVJQyvexFyzKRZh5WR7gGOmbQ1q0qqfMN3UoIcyI6TNeFwQdKjt0ENDxW-OTkB5vYDWxxLiQ__" alt="Lambo">
+                    <p class="pfirst">Lambo for a EleFANT CEO</p>
+                    <p class="ponly">To be an outstanding eleFANT</p>
+                    <p class="plast"><i class="fa-solid fa-coins"></i> 1M</p>
+                </div>
+                <div class="card-item card-item3">
+                    <img src="https://s3-alpha-sig.figma.com/img/d5d1/c1af/1f6993bb054d9626a76977a1ff19d39d?Expires=1719187200&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=oIfLUwbv0t3ePtIkSX4dtHeqtVEZa9lG53uLRQJGQ6jaCi4nlIEkRsH1zm0ta1iwKFsKyTQhLITGl8eKuYhthRFEOpQM0tgpW~SabQxPkVnQIHNy2VslGnxE6t7h~JzN3EXBMT7eOTr3fx-J6d8J4uknDq~cswszAtVTw3ZQFz-iSnqYZwgX1BAYm841cm7sBe6GRx15wo38AXaZ1rt8pr35YjeJrsJuz3tDQ1uwVRZHNJG-hJxe1qD5OeuTyybRd072AbZtQq2Kl~ApRRSpWqt5z-2x0-JRd6BgbKibycUsgMNztJVlq~dCriY5kaeC8JA58v1JkOCPKD2u92fM3g__" alt="YouTube">
+                    <p class="pfirst">EleFANT YouTube Channel</p>
+                    <p class="ponly">To be an outstanding hamster</p>
+                    <p class="plast"><i class="fa-solid fa-coins"></i> 1M</p>
+                </div>
+                <div class="card-item card-item4">
+                    <img src="https://s3-alpha-sig.figma.com/img/ac1c/f05d/22efe4f7b7d3a72fb96199baf70f39de?Expires=1719187200&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=qsKAvPfmrvJVO6JHa6SsBGYRA-MxdWlsNsu1OL-D-~6DIaZBaEEYiqeU0QI9CjntPZGZA1XrRVAvu0R0kOtsgQtIEi5rkqTymC0nAD88jtGdn87ekpLbDPoS48acvOsFGeJ3N-1RBo1dNwtBnST~Kyoy3X5-UHiYTp~QCWx8vC~cESeW8flH-AHkZon4QNFTAl5D96qlkop9cGB2fj15-uuE1GSkF0-~e13spYyvUwBZJeydaK~-3xUaRSp~-JXY7AZ-5nHRKeltZLprh1EBo-dy16l7e7Vk5jaAQz3qEgIKeaJEV9dru0HP1qBKyRWUcJN7TF8yB5tebQGAWo9C9g__" alt="Lambo">
+                    <p class="pfirst">Lambo for a EleFANT CEO</p>
+                    <p class="ponly">To be an outstanding hamster</p>
+                    <p class="plast"><i class="fa-solid fa-coins"></i> 1M</p>
+                </div>
+            </div>
+        </div>
+        <div class="overlay"></div>
+        <section class="exchange-card">
+            <div class="card-content">
+                <img class="ell" src="https://s3-alpha-sig.figma.com/img/8bba/22aa/894ac617d987db5b9278f1be7d2d425f?Expires=1719187200&amp;Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&amp;Signature=DroHuYdLf9mXS4R7T2g0mkIyLhPYrPDHkui5P0ImZS6QnL9VInAZRP8iUxHpLu-lhzmKP-P1wQsIiDev2N4RT3oFamf1l7Jd56z3DARVgqKY-jKILCSkfV74uTYJpZuItoS8YUgQpQlA91t3JNuFAX4-05Yret8svl5ZMRgLgNDE-iw0EdKV9OdocTwU3jhKmlSD-vTcFGBVuOSlN9pJPucR0pOfbVZyA8Ytb3LKiEamffVCvjH9UoyVO8-nBTclBcC0sotKRGJ0kP5ZNrIEJOyp0Av0bDuNfv1KBkWvu3Rjjsz7B9OBpIRwV0pS86THds9evl~yqvRSDemy02RbWQ__" alt="Astronaut Elephant"> 
+                <h2>EleFANT token will be launched on TON</h2>
+                <p>We strongly believe that together with TON will launch the real blue chip in TON ecosystem</p>
+                <button class="join">Join</button>
+                <p>Profit per hour</p>
+                <p><img src="./dollar.png" alt=""> +275</p>
+                <h2><img src="./dollar.png" alt=""> 2500</h2>
+                <button class="cta-button">Join</button>
+            </div>
+            <button class="close-button">×</button>
+        </section>
+    </div>
+
+    <script>
+        // Блокировка зума по тапам
+        let lastTouchEnd = 0;
+
+        document.addEventListener('touchstart', function (event) {
+            if (event.touches.length > 1) {
+                event.preventDefault();
+            }
+        }, { passive: false });
+
+        document.addEventListener('touchend', function (event) {
+            let now = (new Date()).getTime();
+            if (now - lastTouchEnd <= 300) {
+                event.preventDefault();
+            }
+            lastTouchEnd = now;
+        }, false);
+
+        document.addEventListener('gesturestart', function (event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>
